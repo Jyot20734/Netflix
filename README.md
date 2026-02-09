@@ -6,10 +6,15 @@ This project focuses on layout design, UI styling, and recreating a real-world s
 🚀 Live Features
 
 🎥 Netflix-style hero section
+
 📺 Movie/TV show rows (Trending section)
+
 🖼 Poster cards with hover zoom effect
+
 🌑 Dark theme UI
+
 📱 Responsive layout
+
 🧭 Navigation bar with:
 
 Logo
